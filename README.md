@@ -55,7 +55,7 @@ The application is built with modern web technologies, featuring a responsive de
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/robo-guide.git
+git clone https://github.com/Edgar-GIT/robo-guide.git
 cd ROBO_GUIDE
 
 # Install dependencies
@@ -77,7 +77,7 @@ The application will open in your default browser at `http://localhost:8080`
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/robo-guide.git
+git clone https://github.com/Edgar-GIT/robo-guide.git
 cd ROBO_GUIDE
 
 # Install dependencies
